@@ -1,0 +1,86 @@
+[
+{
+	"model":"Moretti",
+	"firmware":"2.100.5",
+	"firmware_date":"2022-10-03T14:03:54.607943",
+	"name":"Router1",
+	"floorLocation":"FLOOR1",
+	"isFotaEnabled":true,
+	"deviceConfig":{
+		"wifiEnabled":true,
+		"gpsEnabled":false,
+		"bluetoothEnabled":true
+	},
+	"location":"PUNE"
+},
+{
+	"model":"Moretti",
+	"firmware":"3.100.5",
+	"firmware_date":"2022-01-03T14:03:54.607943",
+	"name":"Router2",
+	"floorLocation":"FLOOR2",
+	"isFotaEnabled":true,
+	"deviceConfig":{
+		"wifiEnabled":false,
+		"gpsEnabled":false,
+		"bluetoothEnabled":true
+	},
+	"location":"AHMEDABAD"
+},
+{
+	"model":"Skyus 140",
+	"firmware":"1.100.5",
+	"firmware_date":"2021-01-03T14:03:54.607943",
+	"name":"Router3",
+	"floorLocation":"FLOOR3",
+	"isFotaEnabled":false,
+	"deviceConfig":{
+		"wifiEnabled":false,
+		"gpsEnabled":false,
+		"bluetoothEnabled":true
+	},
+	"location":"PUNE"
+},
+{
+	"model":"Skyus 140",
+	"firmware":"1.200.5",
+	"firmware_date":"2021-10-03T14:03:54.607943",
+	"name":"Router4",
+	"floorLocation":"FLOOR4",
+	"isFotaEnabled":true,
+	"deviceConfig":{
+		"wifiEnabled":false,
+		"gpsEnabled":false,
+		"bluetoothEnabled":false
+	},
+	"location":"PUNE"
+},
+{
+	"model":"Bradshaw",
+	"firmware":"9.200.5",
+	"firmware_date":"2021-10-03T14:03:54.607943",
+	"name":"Router5",
+	"floorLocation":"FLOOR4",
+	"isFotaEnabled":true,
+	"deviceConfig":{
+		"wifiEnabled":false,
+		"gpsEnabled":false,
+		"bluetoothEnabled":false
+	},
+	"location":"AHMEDABAD"
+},
+{
+	"model":"Cisco",
+	"firmware":"9.200.5",
+	"firmware_date":"2022-10-03T14:03:54.607943",
+	"name":"Router6",
+	"floorLocation":"FLOOR5",
+	"isFotaEnabled":true,
+	"deviceConfig":{
+		"wifiEnabled":false,
+		"gpsEnabled":false,
+		"bluetoothEnabled":false
+	},
+	"location":"GURGAON"
+}
+]
